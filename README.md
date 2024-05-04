@@ -2,9 +2,9 @@
 
 Este repositório contém o código referente ao primeiro desafio de programação Furukawa 2024.
 
-Data: 03/05/2024
-Autor: Leonardo Bora da Costa
-Área: SPO
+Data: 03/05/2024 /n
+Autor: Leonardo Bora da Costa /n
+Área: SPO /n
 Gestor: Guilherme Campagnoli
 
 ## Descrição
