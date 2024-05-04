@@ -33,3 +33,19 @@ if is_balanced(expression):
     print("The expression is balanced.")
 else:
     print("The expression is not balanced.")
+
+# Test case 1: Balanced expression
+expression1 = "((2 + 3) * [4 - 5])"
+assert is_balanced(expression1) == True
+
+# Test case 2: Unbalanced expression
+expression2 = "((2 + 3) * [4 - 5)"
+assert is_balanced(expression2) == False
+
+# Test case 3: Empty expression
+expression3 = ""
+assert is_balanced(expression3) == True
+
+# Test case 4: Expression with no brackets
+expression4 = "2 + 3"
+assert is_balanced(expression4) == True
